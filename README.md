@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MarcoAurelio80
-- 👀 I’m interested in improvig myself and my sorroudings
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on money making projects
-- 📫 How to reach me through email or WhatsApp
-- 😄 Pronouns: Outspoken, carismatic
+- 👀 I’m interested in improvig myself and my surroundings.
+- 🌱 I’m currently learning JavaScript a.o.
+- 💞️ I’m looking to collaborate in creative projects.
+- 📫 How to reach me through LinkedIn, email or WhatsApp.
+- 😄 Pronouns: Outspoken, charismatic and eager to reach goals.
 - ⚡ Fun fact: I´m a northern european viking born in sourthen Spain, with strong English roots.
 
 <!---
